@@ -2,4 +2,5 @@
 
 Enter the name of the monster in the search bar and the application will show it.
 
-GitHub Pages: https://norvellart.github.io/React-searcher/
+# GitHub Pages: 
+https://norvellart.github.io/React-searcher/
